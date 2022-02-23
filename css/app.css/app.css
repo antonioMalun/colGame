@@ -4,3 +4,6 @@ button {
     display: flex-ligne;
     justify-content: space-between;
 }
+h1{
+     text-align: center;
+}
